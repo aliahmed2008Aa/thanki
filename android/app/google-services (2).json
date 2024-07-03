@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "40173828864",
+    "project_id": "thanki-prod",
+    "storage_bucket": "thanki-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40173828864:android:d017cbd0ea8cbaa6a3d1e5",
+        "android_client_info": {
+          "package_name": "com.AKAD.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40173828864-3vf9606useuhg5t3dj6608s8f5b8ed92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCua-07WRGZOwtgF0btA13GwzxZvdZQK9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40173828864-3vf9606useuhg5t3dj6608s8f5b8ed92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
